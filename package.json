@@ -1,6 +1,6 @@
 {
   "name": "@dexon-foundation/ace-mode-dsolidity",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Ace Edit Mode for DEXON's Solidity language.",
   "browser": "build/remix-ide/mode-solidity.js",
   "scripts": {
