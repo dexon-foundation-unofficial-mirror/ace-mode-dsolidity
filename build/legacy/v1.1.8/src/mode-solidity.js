@@ -49,7 +49,7 @@ var SolidityHighlightRules = function(options) {
         "support.function.deprecated":
             "sha3|suicide",
         "support.variable":
-            "now",
+            "now|rand",
         "constant.language.boolean":
             "true|false",
         "constant.numeric.other.unit.currency":
