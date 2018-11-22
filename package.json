@@ -1,7 +1,7 @@
 {
-  "name": "ace-mode-solidity",
+  "name": "@dexon-foundation/ace-mode-dsolidity",
   "version": "0.1.1",
-  "description": "Ace Edit Mode for Ethereum's Solidity language.",
+  "description": "Ace Edit Mode for DEXON's Solidity language.",
   "browser": "build/remix-ide/mode-solidity.js",
   "scripts": {
     "test-build": "node ./test_browserify/build.js",
@@ -14,7 +14,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/raphaelhuefner/ace-mode-solidity.git"
+    "url": "git+https://github.com/dexon-foundation/ace-mode-dsolidity.git"
   },
   "keywords": [
     "ace",
@@ -23,18 +23,18 @@
     "syntax",
     "highlighting",
     "ethereum",
+    "DEXON",
     "solidity"
   ],
   "author": {
-    "name": "Raphael Huefner",
-    "email": "raphaelhuefner@gmail.com",
-    "url": "https://rh.io"
+    "name": "Hsuan Lee",
+    "email": "hsuan@dexon.org"
   },
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/raphaelhuefner/ace-mode-solidity/issues"
+    "url": "https://github.com/dexon-foundation/ace-mode-dsolidity/issues"
   },
-  "homepage": "https://github.com/raphaelhuefner/ace-mode-solidity#readme",
+  "homepage": "https://github.com/dexon-foundation/ace-mode-dsolidity#readme",
   "dependencies": {},
   "devDependencies": {
     "ast-types": "^0.11.5",
